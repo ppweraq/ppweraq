@@ -1,11 +1,8 @@
 <div id="header" align="center">
-<!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p> -->
+<iframe src="https://giphy.com/embed/xonOzxf2M8hNu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xonOzxf2M8hNu">via GIPHY</a></p>
   <div style="margin-bottom: 20px;" id="badges" align="center">
     <a href="https://t.me/saakhaaya">
       <img src="https://img.shields.io/badge/Telegram-30A3E6?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="mailto:saakhaaya1234@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
     </a>
   </div>
   <h1>  
@@ -21,13 +18,13 @@
 ### My stats:
 
 <p align="justify">
-  <a href="https://github.com/ppweraq/ppweraq/">
+<!--   <a href="https://github.com/ppweraq/ppweraq/">
     <picture height="150">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ppweraq&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark&border_color=000000&border_radius=10" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ppweraq&count_private=true&show_icons=true&custom_title=Github%20Status&border_radius=10" />
       <img alt="github-snake" src="https://github-readme-stats.vercel.app/api?username=ppweraq&count_private=true&show_icons=true&custom_title=Github%20Status&border_radius=10" />
     </picture>
-  </a>
+  </a> -->
 &nbsp;
    <a href="https://github.com/ppweraq/ppweraq/">
     <picture height="150">
@@ -46,7 +43,7 @@
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="">&nbsp;&nbsp;&nbsp;
   <!-- <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="">&nbsp;&nbsp;&nbsp; -->
-  <!-- <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="">&nbsp;&nbsp;&nbsp; -->
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="">&nbsp;&nbsp;&nbsp;
   <!-- <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="">&nbsp;&nbsp;&nbsp; -->
