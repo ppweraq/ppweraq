@@ -1,4 +1,4 @@
-<div id="header" align="center"> https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNydmxmZXEwbXN6dWR5OWRnaWRvcWpiejY0eTFqMDdqdm1wY3A5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNydmxmZXEwbXN6dWR5OWRnaWRvcWpiejY0eTFqMDdqdm1wY3A5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="" />
   <div style="margin-bottom: 20px;" id="badges" align="center">
     <a href="https://t.me/saakhaaya">
