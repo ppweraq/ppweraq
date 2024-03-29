@@ -1,13 +1,13 @@
-<div id="header" align="center">
-<iframe src="https://giphy.com/embed/xonOzxf2M8hNu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xonOzxf2M8hNu">via GIPHY</a></p>
+<div id="header" align="center"> https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNydmxmZXEwbXN6dWR5OWRnaWRvcWpiejY0eTFqMDdqdm1wY3A5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNydmxmZXEwbXN6dWR5OWRnaWRvcWpiejY0eTFqMDdqdm1wY3A5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="" />
   <div style="margin-bottom: 20px;" id="badges" align="center">
     <a href="https://t.me/saakhaaya">
-      <img src="https://img.shields.io/badge/Telegram-30A3E6?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-30A3E6?style=for-the-badge&logo=telegram&logoColor=white" alt="tg Badge"/>
     </a>
   </div>
   <h1>  
     Hey there 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JpeHN1bDZldGcxbG10dHhzc3pyNmQ2YTh6YWh1ODE1bHBzOXA4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FgVQueycEpfu78KRIl/giphy.gif" width="30px" alt=""/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JpeHN1bDZldGcxbG10dHhzc3pyNmQ2YTh6YWh1ODE1bHBzOXA4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FgVQueycEpfu78KRIl/giphy.gif" width="50px" alt=""/>
 <!--     <img src="https://giphy.com/embed/FgVQueycEpfu78KRIl"width="30px" alt=""/> -->
   </h1>
 </div>
