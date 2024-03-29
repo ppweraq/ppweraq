@@ -6,8 +6,9 @@
     </a>
   </div>
   <h1>  
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
+    Hey there 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JpeHN1bDZldGcxbG10dHhzc3pyNmQ2YTh6YWh1ODE1bHBzOXA4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FgVQueycEpfu78KRIl/giphy.gif" width="30px" alt=""/>
+<!--     <img src="https://giphy.com/embed/FgVQueycEpfu78KRIl"width="30px" alt=""/> -->
   </h1>
 </div>
 
